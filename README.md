@@ -1,4 +1,4 @@
-# test-approval-bot
+# repo-bot
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
