@@ -4,11 +4,29 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![ISC License][license-shield]][license-url]
 
-## Introduction
+> A GitHub App built with [Probot](https://github.com/probot/probot)
 
+## Setup
 
+```sh
+# Install dependencies
+npm install
+
+# Run the bot
+npm start
+```
+
+## Docker
+
+```sh
+# 1. Build container
+docker build -t repo-bot .
+
+# 2. Start container
+docker run -e APP_ID=<app-id> -e PRIVATE_KEY=<pem-value> repo-bot
+```
 
 ## License
 
