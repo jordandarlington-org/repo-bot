@@ -3,7 +3,8 @@
     * @param {import('probot').Probot} app
 */
 export default (app) => {
-    app.log.info("Yay, the app was loaded!");
+    // app.log = app.log.child({ timestamp: true });
+    app.log.info("REPO-BOT STARTED");
 
     app.on("issues.opened", async (context) => {
         const issueComment = context.issue({
