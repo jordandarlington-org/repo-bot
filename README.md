@@ -30,17 +30,17 @@ docker run -e APP_ID=<app-id> -e PRIVATE_KEY=<pem-value> repo-bot
 
 ## License
 
-This repo is licensed under an MIT license. A copy of the license is also provided.
+This repo is licensed under an ISC license. A copy of the license is also provided.
 
 ---
 
-[contributors-shield]: https://img.shields.io/github/contributors/jordandarlington-org/test-approval-bot.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/jordandarlington-org/repo-bot.svg?style=for-the-badge
 [contributors-url]: https://github.com/jordandarlington-org
-[forks-shield]: https://img.shields.io/github/forks/jordandarlington-org/test-approval-bot.svg?style=for-the-badge
-[forks-url]: https://github.com/jordandarlington-org/test-approval-bot/network/members
-[stars-shield]: https://img.shields.io/github/stars/jordandarlington-org/test-approval-bot.svg?style=for-the-badge
-[stars-url]: https://github.com/jordandarlington-org/test-approval-bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jordandarlington-org/test-approval-bot.svg?style=for-the-badge
-[issues-url]: https://github.com/jordandarlington-org/test-approval-bot/issues
-[license-shield]: https://img.shields.io/github/license/jordandarlington-org/test-approval-bot.svg?style=for-the-badge
-[license-url]: https://github.com/jordandarlington-org/test-approval-bot/blob/main/LICENSE
+[forks-shield]: https://img.shields.io/github/forks/jordandarlington-org/repo-bot.svg?style=for-the-badge
+[forks-url]: https://github.com/jordandarlington-org/repo-bot/network/members
+[stars-shield]: https://img.shields.io/github/stars/jordandarlington-org/repo-bot.svg?style=for-the-badge
+[stars-url]: https://github.com/jordandarlington-org/repo-bot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jordandarlington-org/repo-bot.svg?style=for-the-badge
+[issues-url]: https://github.com/jordandarlington-org/repo-bot/issues
+[license-shield]: https://img.shields.io/github/license/jordandarlington-org/repo-bot.svg?style=for-the-badge
+[license-url]: https://github.com/jordandarlington-org/repo-bot/blob/main/LICENSE
